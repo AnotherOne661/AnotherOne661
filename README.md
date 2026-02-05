@@ -71,7 +71,7 @@ Me enfoco en construir **soluciones eficientes y escalables**, con un fuerte én
 
 ---
 
-![Divider](./assets/divider.svg)
+![Divider](./assets/images/divider.svg)
 
 ## 🛠️ Stack Tecnológico
 
