@@ -30,7 +30,7 @@ I focus on building **efficient, scalable solutions** with a strong emphasis on 
 | **Databases** | MySQL, Vector Databases |
 | **Cloud & DevOps** | Docker, Kubernetes, GitHub Actions |
 | **Cloud Providers** | AWS, Azure |
-| **AI & AIOps** | LLMs (Ollama, LLaMA), MCP, SentenceTransformers |
+| **AI & AIOps** | LLMs (Ollama, LLaMA, LMStudio, vLLM), MCP, SentenceTransformers |
 | **Other** | JWT Authentication, REST APIs |
 
 ---
@@ -82,7 +82,7 @@ Me enfoco en construir **soluciones eficientes y escalables**, con un fuerte én
 | **Bases de Datos** | MySQL, Bases de datos vectoriales |
 | **Cloud & DevOps** | Docker, Kubernetes, GitHub Actions |
 | **Proveedores Cloud** | AWS, Azure |
-| **IA & AIOps** | LLMs (Ollama, LLaMA), MCP, SentenceTransformers |
+| **IA & AIOps** | LLMs (Ollama, LLaMA, LMStudio, vLLM), MCP, SentenceTransformers |
 | **Otros** | Autenticación JWT, APIs REST |
 
 ---
