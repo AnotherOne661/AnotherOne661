@@ -26,7 +26,7 @@ I focus on building **efficient, scalable solutions** with a strong emphasis on 
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Frontend** | HTML, CSS, React, Next.js, Tailwind CSS |
-| **Backend** | Node.js, Python |
+| **Backend** | Node.js, Python, PHP |
 | **Databases** | MySQL, Vector Databases |
 | **Cloud & DevOps** | Docker, Kubernetes, GitHub Actions |
 | **Cloud Providers** | AWS, Azure |
@@ -78,7 +78,7 @@ Me enfoco en construir **soluciones eficientes y escalables**, con un fuerte én
 | Categoría | Tecnologías y Herramientas |
 | :--- | :--- |
 | **Frontend** | HTML, CSS, React, Next.js, Tailwind CSS |
-| **Backend** | Node.js, Python |
+| **Backend** | Node.js, Python, PHP |
 | **Bases de Datos** | MySQL, Bases de datos vectoriales |
 | **Cloud & DevOps** | Docker, Kubernetes, GitHub Actions |
 | **Proveedores Cloud** | AWS, Azure |
