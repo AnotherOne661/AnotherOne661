@@ -2,7 +2,7 @@
 
 ## EN:
 
-# Full-Stack Developer | DevOps | AIOps
+# Mid-Senior Full-Stack Developer | DevOps | AIOps Engineer
 
 Currently working on **modern, automated, and intelligent systems**.
 
@@ -27,8 +27,8 @@ I focus on building **efficient, scalable solutions** with a strong emphasis on 
 | :--- | :--- |
 | **Frontend** | HTML, CSS, React, Next.js, Tailwind CSS |
 | **Backend** | Node.js, Python, PHP |
-| **Databases** | MySQL, Vector Databases |
-| **Cloud & DevOps** | Docker, Kubernetes, GitHub Actions |
+| **Databases** | MySQL, Vector Databases, mongoDB |
+| **Cloud & DevOps** | Docker, Kubernetes, GitHub Actions, VMware, VCF, Openshift, OADP, GitOps, Ansible, Velero, Contour, Trident, Prometheus, Grafana, Jenkins, RKE2 |
 | **Cloud Providers** | AWS, Azure |
 | **AI & AIOps** | LLMs (Ollama, LLaMA, LMStudio, vLLM), MCP, SentenceTransformers, Vectorial Databases RAG|
 | **Other** | JWT Authentication, REST APIs |
@@ -54,7 +54,7 @@ I focus on building **efficient, scalable solutions** with a strong emphasis on 
 
 ## ES:
 
-# Desarrollador Full-Stack | DevOps | AIOps
+# Mid-Senior Desarrollador Full-Stack | Ingeniero DevOps | AIOps
 
 Actualmente trabajando en **sistemas modernos, automatizados e inteligentes**.
 
@@ -79,8 +79,8 @@ Me enfoco en construir **soluciones eficientes y escalables**, con un fuerte én
 | :--- | :--- |
 | **Frontend** | HTML, CSS, React, Next.js, Tailwind CSS |
 | **Backend** | Node.js, Python, PHP |
-| **Bases de Datos** | MySQL, Bases de datos vectoriales |
-| **Cloud & DevOps** | Docker, Kubernetes, GitHub Actions |
+| **Bases de Datos** | MySQL, Bases de datos vectoriales, mongoDB |
+| **Cloud & DevOps** | Docker, Kubernetes, GitHub Actions, VMware, VCF, Openshift, OADP, GitOps, Ansible, Velero, Contour, Trident, Prometheus, Grafana, Jenkins, RKE2 |
 | **Proveedores Cloud** | AWS, Azure |
 | **IA & AIOps** | LLMs (Ollama, LLaMA, LMStudio, vLLM), MCP, SentenceTransformers, Bases de Datos Vectoriales RAG|
 | **Otros** | Autenticación JWT, APIs REST |
@@ -103,6 +103,6 @@ Me enfoco en construir **soluciones eficientes y escalables**, con un fuerte én
 ![Divider](./assets/images/divider.svg)
 
 
-## "Wake the f up, **samurai**. _here's a city to burn_"
+## "Wake the f up, **samurai**. _There's a city to burn_"
 -Johnny Silverhand. 
 ![Johnny Silverhand from Cyberpunk 2077 RED](assets/images/download.gif)
