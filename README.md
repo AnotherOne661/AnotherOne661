@@ -1,4 +1,6 @@
-![Cyberpunk Welcome](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNveHI3OW85cGVwbGN3Y3U5dDZlaXhuZGlscGRheXpnMTc1aTdiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c5003c,100:55ead4&height=280&section=header&text=AnotherOne661&fontSize=50&fontColor=ffffff&animation=twinkling&desc=DevOps%20Engineer&descAlignY=60&descAlign=50" />
+</p>
 
 ## EN:
 
@@ -8,14 +10,23 @@ Currently working on **modern, automated, and intelligent systems**.
 
 ---
 
-##  About Me
+## <p align="center"><b>About Me</p>
+<p align="center">
+  I’m a passionate web developer with experience across the **full application lifecycle**.  
+  I focus on building **efficient, scalable solutions** with a strong emphasis on **user experience and system reliability**.
+  
+  **Continuous Learning:** Currently deepening my knowledge in **Cloud technologies (AWS, Azure)** and exploring **AIOps and modern web trends**.  
+  **Solid Background:** Full-stack development combined with DevOps and cloud-native practices.  
+</p>
+<p align="center"><b>✦ LANGUAGES ✦</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/English-C1-0077B5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spanish-Native-FF5733?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Portuguese-A2-FF5733?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Chinese-HSK2-FF5733?style=for-the-badge" />
 
-I’m a passionate web developer with experience across the **full application lifecycle**.  
-I focus on building **efficient, scalable solutions** with a strong emphasis on **user experience and system reliability**.
+</p>
 
-**Continuous Learning:** Currently deepening my knowledge in **Cloud technologies (AWS, Azure)** and exploring **AIOps and modern web trends**.  
-**Solid Background:** Full-stack development combined with DevOps and cloud-native practices.  
-**Languages:**  English: C1, Spanish: Native, Portuguese: A2
 
 ---
 
@@ -49,56 +60,6 @@ I focus on building **efficient, scalable solutions** with a strong emphasis on 
 
 ---
 
-
-![Divider](./assets/images/divider.svg)
-
-## ES:
-
-# Mid-Senior Desarrollador Full-Stack | Ingeniero DevOps | AIOps
-
-Actualmente trabajando en **sistemas modernos, automatizados e inteligentes**.
-
----
-
-## Sobre mí
-
-Soy un desarrollador web apasionado con experiencia en **todo el ciclo de vida de una aplicación**.  
-Me enfoco en construir **soluciones eficientes y escalables**, con un fuerte énfasis en la **experiencia de usuario y la fiabilidad del sistema**.
-
-**Aprendizaje continuo:** Actualmente profundizando mis conocimientos en **tecnologías Cloud (AWS, Azure)** y explorando **AIOps y tendencias modernas de desarrollo web**.  
-**Base sólida:** Desarrollo full-stack combinado con prácticas DevOps y cloud-native.  
-**Idiomas:** Inglés: C1, Español: Nativo, Portugués: A2
-
----
-
-![Divider](./assets/images/divider.svg)
-
-## 🛠️ Stack Tecnológico
-
-| Categoría | Tecnologías y Herramientas |
-| :--- | :--- |
-| **Frontend** | HTML, CSS, React, Next.js, Tailwind CSS |
-| **Backend** | Node.js, Python, PHP |
-| **Bases de Datos** | MySQL, Bases de datos vectoriales, mongoDB |
-| **Cloud & DevOps** | Docker, Kubernetes, GitHub Actions, VMware, VCF, Openshift, OADP, GitOps, Ansible, Velero, Contour, Trident, Prometheus, Grafana, Jenkins, RKE2 |
-| **Proveedores Cloud** | AWS, Azure |
-| **IA & AIOps** | LLMs (Ollama, LLaMA, LMStudio, vLLM), MCP, SentenceTransformers, Bases de Datos Vectoriales RAG|
-| **Otros** | Autenticación JWT, APIs REST |
-
----
-
-![Divider](./assets/images/divider.svg)
-
-### ⚙️ Herramientas Destacadas
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
 
 ![Divider](./assets/images/divider.svg)
 
